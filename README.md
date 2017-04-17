@@ -1,3 +1,7 @@
+# Yash's Game
+
+A forked, modified version of the final draft of Aviator by Karim Maaloul. I made this game back in 2015 and it was my first foray into WebGL with Three.js. Thanks so much to Karim and the people at Codrops for this awesome tutorial and template.
+
 # The Aviator
 
 Demos and game for the tutorial "The Making of 'The Aviator': Animating a Basic 3D Scene with Three.js", by Karim Maaloul.
